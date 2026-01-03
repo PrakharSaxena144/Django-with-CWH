@@ -1,0 +1,10 @@
+/ This can be seen from the server {Available to all}
+
+This is a test and a static file
+
+
+/ Never save any file here, that has security purpose
+/ What you can share are--->
+    public javascript library, 
+    css file for styling, 
+    download publically available,...
